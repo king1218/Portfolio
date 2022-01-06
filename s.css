@@ -86,7 +86,7 @@ background: linear-gradient(90deg, rgba(4,22,21,0.958420868347339) 3%, rgba(249,
     border-image: linear-gradient(rgb(233, 119, 12),rgb(208, 255, 0));
     border-radius: 10px;
     border-image-slice: 1;
-
-  
-
+}
+footer{
+    text-align: center;
 }
